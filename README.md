@@ -1,8 +1,11 @@
-# :leaves: 8th_Node.js
+# :leaves: 9th_Node.js
 
-INHA UMC 8th_Node.js 미션, 키워드 인증 레포지터리입니다!
+INHA UMC 9th_Node.js 미션, 키워드 인증 레포지터리입니다!
 
 ## 💻 Member
+1. 서키/서석희
+2. 해피 잭/조규연
+3. 진네커/김진
 
 ## 📁 디렉토리 구조
 
